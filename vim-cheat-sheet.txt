@@ -1,0 +1,47 @@
+Avinash dubey is learning VIM.
+
+He is getting started and now learned how to do following things :-
+  a. Press A to append at the end of the line.
+  b. Press a to append at the cursor position.
+  c. Press X to delete the word at the cursor position.
+  d. Press H, J, K , L to move left , down , up and right respectively.
+  e. Press w to move to start of the next word.
+  f. Press e to move to the end of the current word.
+
+In Second chapter he started learning how to do following things :-
+  a. Press dw to delete word at the cursor.
+  b. Press d$ to delete the whole line after the cursor position.
+
+D Motion : -
+  a. dw -- delete word.
+  b. de -- delete from the cursor till the end of the word.
+  c. d$ -- delete the entire line after the cursor.
+  d. dd -- delete the entire line.
+  e. 2dd -- delete 2 rows.
+
+Motion with numbers -- 
+  a. 2w -- move 2 words
+  b. 4h -- move 4 words left
+  c. 0 -- to the start of the line
+  d. $ -- to move to end of the line
+  d. d2w -- delete 2 words.
+
+Undo -- press u to undo and U to undo all the changes.
+
+Press r -- to replace the letter you want to change.
+Press c -- to change the things in vim. c works with different options and they are as bellows--
+      a. c$ -- will allow to change the rest of the line from the cursor point.
+      b. c2w -- will allow to change 2 words after the cursor.
+Press p -- this is used to put things. It works with d and y. 
+      a. p with d -- if you dd a line and than go the place where you want to put that press p.
+      b. p with y -- if you press yy it will copy that line and go to the place where you want and press p.
+
+Press shift+} to go down the page.
+Press shift+{ to go up the page.
+
+Matching Pranthesis -- go the (,{,[ and press % and it will show you the matching pair.
+
+Open Command -- 
+Press o -- this will add a new line below the cursor and its in insert mode.
+Press O -- this will add a new line above the cursor and its in insert mode.
+
