@@ -1,6 +1,7 @@
 # neovimrepo
-Personalised NeoVim Config Files with LSP
+Personalised NeoVim Config Files with LSP and also terminal themes and fonts
 
+## Complete Neovim Setup for JS, TS, Go And Tailwind
 
 # How To Use
 
